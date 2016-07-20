@@ -1,2 +1,2 @@
-# nahkoda-resource
+# NAHKODA DEVELOPMENT
 about resource nahkoda development
